@@ -70,6 +70,11 @@ Foram executadas etapas como:
 
 ---
 
+## 💡 Próximos Passos
+
+- Implementação de medidas DAX avançadas para indicadores preditivos.
+- Criação de documentação complementar de validação de dados (QA).
+
 ## Modelagem
 
 A modelagem foi estruturada considerando as relações entre empregados, departamentos, projetos, atividades e dependentes.
