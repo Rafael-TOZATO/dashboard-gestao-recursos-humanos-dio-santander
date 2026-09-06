@@ -1,5 +1,7 @@
 # Dashboard de Gestão de Recursos Humanos
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Projeto desenvolvido em Power BI no contexto do desafio da DIO em parceria com o Santander.
 
 O projeto tem como objetivo transformar dados estruturados de Recursos Humanos em indicadores e análises visuais para apoio à tomada de decisão.
